@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\AuraTiger\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\AuraTiger\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Design Patterns.293090887.00" t="ExcludeRecursive" />
+    <e p="C:\Users\AuraTiger\RiderProjects\Design Patterns" t="IncludeFlat">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
+      <e p="Design Patterns" t="IncludeRecursive">
+        <e p="Behavioral Patterns" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Creational Patterns" t="Include">
+          <e p="BuilderPattern.cs" t="Include" />
+        </e>
+        <e p="Design Patterns.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Design Patterns.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Structual Patterns" t="Include" />
+      </e>
+      <e p="Design Patterns.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
