@@ -9,10 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Creational Patterns/BuilderPattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Creational Patterns/BuilderPattern.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605107723074</updated>
       <workItem from="1605107729923" duration="4501000" />
-      <workItem from="1605178782767" duration="7203000" />
+      <workItem from="1605178782767" duration="10221000" />
     </task>
     <servers />
   </component>

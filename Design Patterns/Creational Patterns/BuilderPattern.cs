@@ -7,6 +7,14 @@ using static System.Console;
 namespace Design_Patterns.Creational_Patterns
 {
     
+    /*
+     * Builder design pattern-а ти позволява да създаваш обекти стъпка по стъпка,
+     * исползвайки само определени стъпки, които са нужни. Затова той има смисъл
+     * да се ползва за създаването на комплексни обекти, които в противен случай
+     * би се налагало да се създават чрез огромни конструктори в които не винаги
+     * ше са нужни всики параметри.
+     */
+    
      // The Builder pattern is a creational design pattern that lets you construct 
      // complex objects step by step. Builders are supposed to be able to chain method
      // calls and allow the user to produce different types and representations of an object
@@ -190,14 +198,14 @@ public class Person
         where TSelf : FunctionalBuilder<TSubject, TSelf>
         where TSubject : new()
     {
-       private readonly List<Func<Person, Person>> actions = new List<Func<Person, Person>>();
+       private readonly List<Func<TSubject, TSubject>> actions = new List<Func<TSubject, TSubject>>();
         
-       public TSelf Do(Action<Person> action) => AddAction(action);
+       public TSelf Do(Action<TSubject> action) => AddAction(action);
 
-       public Person Build() 
-           => actions.Aggregate(new Person(), (p, f) => f(p));
+       public TSubject Build() 
+           => actions.Aggregate(new TSubject(), (p, f) => f(p));
        
-       private TSelf AddAction(Action<Person> action)
+       private TSelf AddAction(Action<TSubject> action)
        {
            actions.Add(p =>
            {
