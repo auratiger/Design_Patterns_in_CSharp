@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using static System.Console;
 
-namespace Design_Patterns.Creational_Patterns
+namespace Design_Patterns.Creational_Patterns.BuilderPattern
 {
     
     /*
@@ -47,7 +47,6 @@ namespace Design_Patterns.Creational_Patterns
              var builder = new HtmlBuilder("ul");
              builder.AddChild("li", "hello").AddChild("li", "word");
              WriteLine(builder);
- 
          } 
          
          public static void FunctionalBuilderTest()
@@ -161,27 +160,27 @@ namespace Design_Patterns.Creational_Patterns
 
 #endregion
 
-public class Person
-{
-    public string Name { get; set; }
-    
-    public string City { get; set; }
-    
-    public string StreetAddress { get; set; }
-    
-    public string Position { get; set; }
-    
-    public string Postcode { get; set; }
-    
-    public int AnnualIncome { get; set; }
-    
-    public string CompanyName { get; set; }
-
-    public override string ToString()
+    public class Person
     {
-        return $"{nameof(Name)}: {Name}, {nameof(City)}: {City}, {nameof(StreetAddress)}: {StreetAddress}, {nameof(Position)}: {Position}, {nameof(Postcode)}: {Postcode}, {nameof(AnnualIncome)}: {AnnualIncome}, {nameof(CompanyName)}: {CompanyName}";
+        public string Name { get; set; }
+        
+        public string City { get; set; }
+        
+        public string StreetAddress { get; set; }
+        
+        public string Position { get; set; }
+        
+        public string Postcode { get; set; }
+        
+        public int AnnualIncome { get; set; }
+        
+        public string CompanyName { get; set; }
+
+        public override string ToString()
+        {
+            return $"{nameof(Name)}: {Name}, {nameof(City)}: {City}, {nameof(StreetAddress)}: {StreetAddress}, {nameof(Position)}: {Position}, {nameof(Postcode)}: {Postcode}, {nameof(AnnualIncome)}: {AnnualIncome}, {nameof(CompanyName)}: {CompanyName}";
+        }
     }
-}
 
 
 #region Functional Builder
