@@ -11,6 +11,7 @@
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,8 @@
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/PrototypePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/BuilderPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/SingletonPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structual Patterns/AdapterPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/AdapterPattern.cs" />
       </list>
     </option>
   </component>
@@ -83,7 +86,7 @@
       <workItem from="1605270116477" duration="5859000" />
       <workItem from="1605366007533" duration="9617000" />
       <workItem from="1605388687303" duration="1106000" />
-      <workItem from="1605526354349" duration="2449000" />
+      <workItem from="1605526354349" duration="6397000" />
     </task>
     <servers />
   </component>
@@ -128,10 +131,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605387284822" />
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1605383768674">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1605537207348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605383768674" />
+    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605537207348" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1605389212082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
