@@ -12,6 +12,7 @@
           <e p="BuilderPattern.cs" t="Include" />
           <e p="FactoryPattern.cs" t="Include" />
           <e p="PrototypePattern.cs" t="Include" />
+          <e p="SingletonPattern.cs" t="Include" />
         </e>
         <e p="Design Patterns.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
