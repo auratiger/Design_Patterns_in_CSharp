@@ -26,6 +26,8 @@
         <e p="Structural Patterns" t="Include">
           <e p="AdapterPattern.cs" t="Include" />
           <e p="BridgePattern.cs" t="Include" />
+          <e p="CompositePattern.cs" t="Include" />
+          <e p="DecoratorPattern.cs" t="Include" />
         </e>
       </e>
       <e p="Design Patterns.sln" t="IncludeFlat" />

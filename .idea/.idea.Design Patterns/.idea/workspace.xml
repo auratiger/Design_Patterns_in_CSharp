@@ -11,7 +11,7 @@
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/Structural Patterns/AdapterPattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Structural Patterns/AdapterPattern.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/17B/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Designe Patterns/Design Patterns/Creational Patterns/Builder.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -31,13 +32,15 @@
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/Builder Pattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structual Patterns/test.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/FactoryPattern.cs" />
-        <option value="$PROJECT_DIR$/Design Patterns/Program.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/PrototypePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/BuilderPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Creational Patterns/SingletonPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structual Patterns/AdapterPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/AdapterPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/BridgePattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Program.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/DecoratorPattern.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +91,9 @@
       <workItem from="1605366007533" duration="9617000" />
       <workItem from="1605388687303" duration="1106000" />
       <workItem from="1605526354349" duration="8892000" />
-      <workItem from="1605608506480" duration="5666000" />
+      <workItem from="1605608506480" duration="11017000" />
+      <workItem from="1605698034386" duration="2461000" />
+      <workItem from="1605787858576" duration="2959000" />
     </task>
     <servers />
   </component>
@@ -117,26 +122,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="161" key="#Plugins/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605388711131" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1605387284822">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1605790088057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605387284822" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1605387284822">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605790088057" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1605790088057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605387284822" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1605387284822">
+    <state width="1877" height="302" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605790088057" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1605790088057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605387284822" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1605387284822">
+    <state width="1877" height="302" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605790088057" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1605790088057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605387284822" />
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1605609595545">
+    <state width="1877" height="302" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605790088057" />
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1605789289975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605609595545" />
+    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605789289975" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1605389212082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

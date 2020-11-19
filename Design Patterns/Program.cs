@@ -2,6 +2,7 @@
  using Design_Patterns.Creational_Patterns;
  using Design_Patterns.Creational_Patterns.BuilderPattern;
  using Design_Patterns.Creational_Patterns.PrototypePattern;
+ using Design_Patterns.Structural_Patterns;
 
  namespace Design_Patterns
 {
@@ -11,9 +12,11 @@
         {
             // BuilderPattern.HtmlBuilderTest();
             
-            PrototypePattern.TestPrototype(); 
+            // PrototypePattern.TestPrototype(); 
             
+            // CompositePattern.Test(); 
             
+            DecoratorPattern.Test();
         }
     }
 }
