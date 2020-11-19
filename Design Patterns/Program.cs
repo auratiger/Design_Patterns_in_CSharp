@@ -16,7 +16,9 @@
             
             // CompositePattern.Test(); 
             
-            DecoratorPattern.Test();
+            // DecoratorPattern.Test();
+            
+            FacadePattern.Test();
         }
     }
 }
