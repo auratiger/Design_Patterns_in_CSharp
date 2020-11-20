@@ -29,6 +29,7 @@
           <e p="CompositePattern.cs" t="Include" />
           <e p="DecoratorPattern.cs" t="Include" />
           <e p="FacadePattern.cs" t="Include" />
+          <e p="FlyWeightPattern.cs" t="Include" />
         </e>
       </e>
       <e p="Design Patterns.sln" t="IncludeFlat" />

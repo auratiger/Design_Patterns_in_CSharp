@@ -18,7 +18,9 @@
             
             // DecoratorPattern.Test();
             
-            FacadePattern.Test();
+            // FacadePattern.Test();
+            
+            FlyWeightPattern.Test();
         }
     }
 }
