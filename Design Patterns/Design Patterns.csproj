@@ -7,10 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Behavioral Patterns" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="ImpromptuInterface" Version="7.0.1" />
     </ItemGroup>
 

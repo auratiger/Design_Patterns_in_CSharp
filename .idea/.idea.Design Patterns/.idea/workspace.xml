@@ -9,8 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,8 @@
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/DynamicProxy.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/VirtualProxy.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/MethodChains.cs" />
       </list>
     </option>
   </component>
@@ -104,7 +107,7 @@
       <workItem from="1605866633056" duration="4218000" />
       <workItem from="1605870890773" duration="4555000" />
       <workItem from="1605897414467" duration="1220000" />
-      <workItem from="1606036101137" duration="14143000" />
+      <workItem from="1606036101137" duration="17402000" />
     </task>
     <servers />
   </component>
@@ -149,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="192" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605870875206" />
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1606043142373">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1606075702446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606043142373" />
+    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606075702446" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1606047407185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

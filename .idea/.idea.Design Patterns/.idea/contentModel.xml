@@ -6,7 +6,12 @@
     <e p="C:\Users\AuraTiger\RiderProjects\Design Patterns" t="IncludeFlat">
       <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="Design Patterns" t="IncludeRecursive">
-        <e p="Behavioral Patterns" t="Include" />
+        <e p="Behavioral Patterns" t="Include">
+          <e p="ChainOfResponsibilityPattern" t="Include">
+            <e p="ChainOfResponsibilityPattern.cs" t="Include" />
+            <e p="MethodChains.cs" t="Include" />
+          </e>
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
           <e p="BuilderPattern.cs" t="Include" />
