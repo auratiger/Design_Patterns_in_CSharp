@@ -9,10 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/Structural Patterns/FlyWeightPattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Structural Patterns/FlyWeightPattern.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,6 @@
         <option value="$PROJECT_DIR$/Design Patterns/Structual Patterns/AdapterPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/AdapterPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/BridgePattern.cs" />
-        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/DecoratorPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/FacadePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Program.cs" />
@@ -50,6 +47,7 @@
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/ValueProxy.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/DynamicProxy.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/VirtualProxy.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" />
       </list>
     </option>
   </component>
@@ -106,7 +104,7 @@
       <workItem from="1605866633056" duration="4218000" />
       <workItem from="1605870890773" duration="4555000" />
       <workItem from="1605897414467" duration="1220000" />
-      <workItem from="1606036101137" duration="12971000" />
+      <workItem from="1606036101137" duration="14143000" />
     </task>
     <servers />
   </component>
