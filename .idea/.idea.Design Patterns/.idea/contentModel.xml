@@ -30,6 +30,13 @@
           <e p="DecoratorPattern.cs" t="Include" />
           <e p="FacadePattern.cs" t="Include" />
           <e p="FlyWeightPattern.cs" t="Include" />
+          <e p="ProxyPattern" t="Include">
+            <e p="DynamicProxy.cs" t="Include" />
+            <e p="ProtectionProxy.cs" t="Include" />
+            <e p="ProxyPattern.cs" t="Include" />
+            <e p="ValueProxy.cs" t="Include" />
+            <e p="VirtualProxy.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="Design Patterns.sln" t="IncludeFlat" />

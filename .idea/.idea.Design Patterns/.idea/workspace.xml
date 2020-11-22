@@ -11,7 +11,8 @@
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Structural Patterns/FlyWeightPattern.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Structural Patterns/FlyWeightPattern.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,12 @@
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/FacadePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Program.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/FlyWeightPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/ProxyPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/ProtectionProxy.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/ValueProxy.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/DynamicProxy.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/VirtualProxy.cs" />
       </list>
     </option>
   </component>
@@ -56,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -97,7 +104,9 @@
       <workItem from="1605698034386" duration="2461000" />
       <workItem from="1605787858576" duration="8649000" />
       <workItem from="1605866633056" duration="4218000" />
-      <workItem from="1605870890773" duration="3689000" />
+      <workItem from="1605870890773" duration="4555000" />
+      <workItem from="1605897414467" duration="1220000" />
+      <workItem from="1606036101137" duration="12971000" />
     </task>
     <servers />
   </component>
@@ -142,14 +151,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="192" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605870875206" />
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1605789289975">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1606043142373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605789289975" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1605389212082">
+    <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606043142373" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606047407185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605389212082" />
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606047407185" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1605379306048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
