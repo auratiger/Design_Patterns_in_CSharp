@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Design_Patterns.Behavioral_Patterns.ChainOfResponsibilityPattern
+namespace Design_Patterns.Behavioral_Patterns.ChainOfResponsibilityPattern.MethodChain
 {
     /*
      * Let's imagine that we are creating a game where we have different

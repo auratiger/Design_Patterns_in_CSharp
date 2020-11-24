@@ -8,8 +8,14 @@
       <e p="Design Patterns" t="IncludeRecursive">
         <e p="Behavioral Patterns" t="Include">
           <e p="ChainOfResponsibilityPattern" t="Include">
+            <e p="BrokerChain.cs" t="Include" />
             <e p="ChainOfResponsibilityPattern.cs" t="Include" />
             <e p="MethodChains.cs" t="Include" />
+          </e>
+          <e p="CommandPattern" t="Include">
+            <e p="CommandPattern.cs" t="Include" />
+            <e p="CommandPatternExample2.cs" t="Include" />
+            <e p="CompositeCommand.cs" t="Include" />
           </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />

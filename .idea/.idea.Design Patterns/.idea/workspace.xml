@@ -11,7 +11,8 @@
     <list default="true" id="473184ee-3742-4e7b-aeea-09bbbad73eb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Design Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Design Patterns.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/MethodChains.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/MethodChains.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Patterns/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,6 @@
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/BridgePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/DecoratorPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/FacadePattern.cs" />
-        <option value="$PROJECT_DIR$/Design Patterns/Program.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/FlyWeightPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/ProxyPattern/ProxyPattern.cs" />
@@ -51,6 +51,13 @@
         <option value="$PROJECT_DIR$/Design Patterns/Structural Patterns/CompositePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/MethodChains.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/ChainOfResponsibilityPattern/BrokerChain.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/CommandPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/CommandPattern/Composite Command.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/CommandPattern/CommandPatternExample2.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/CommandPattern/CommandPattern.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Program.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/CommandPattern/CompositeCommand.cs" />
       </list>
     </option>
   </component>
@@ -61,6 +68,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -107,7 +116,9 @@
       <workItem from="1605866633056" duration="4218000" />
       <workItem from="1605870890773" duration="4555000" />
       <workItem from="1605897414467" duration="1220000" />
-      <workItem from="1606036101137" duration="17402000" />
+      <workItem from="1606036101137" duration="18398000" />
+      <workItem from="1606135448306" duration="13386000" />
+      <workItem from="1606211504232" duration="791000" />
     </task>
     <servers />
   </component>
@@ -136,26 +147,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="161" key="#Plugins/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605388711131" />
-    <state width="1877" height="192" key="GridCell.Tab.0.bottom" timestamp="1605870875206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="276" key="GridCell.Tab.0.bottom" timestamp="1606171580831">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="192" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605870875206" />
-    <state width="1877" height="192" key="GridCell.Tab.0.center" timestamp="1605870875206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="276" key="GridCell.Tab.0.bottom/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606171580831" />
+    <state width="2517" height="276" key="GridCell.Tab.0.center" timestamp="1606171580831">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="192" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605870875206" />
-    <state width="1877" height="192" key="GridCell.Tab.0.left" timestamp="1605870875206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="276" key="GridCell.Tab.0.center/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606171580831" />
+    <state width="2517" height="276" key="GridCell.Tab.0.left" timestamp="1606171580831">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="192" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605870875206" />
-    <state width="1877" height="192" key="GridCell.Tab.0.right" timestamp="1605870875206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="276" key="GridCell.Tab.0.left/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606171580831" />
+    <state width="2517" height="276" key="GridCell.Tab.0.right" timestamp="1606171580831">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1877" height="192" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605870875206" />
-    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1606075702446">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="276" key="GridCell.Tab.0.right/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606171580831" />
+    <state x="1059" y="318" key="RiderGenerateDialog" timestamp="1606170597693">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606075702446" />
+    <state x="1059" y="318" key="RiderGenerateDialog/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606170597693" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1606047407185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -164,9 +180,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605379306048" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605809594552">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="831" y="303" width="896" height="913" key="search.everywhere.popup" timestamp="1606170729583">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605809594552" />
+    <state x="831" y="303" width="896" height="913" key="search.everywhere.popup/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606170729583" />
   </component>
 </project>
