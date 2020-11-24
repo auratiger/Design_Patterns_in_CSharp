@@ -20,6 +20,9 @@
           <e p="InterpreterPattern" t="Include">
             <e p="InterpreterPattern.cs" t="Include" />
           </e>
+          <e p="IteratorPattern" t="Include">
+            <e p="IteratorPattern.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
