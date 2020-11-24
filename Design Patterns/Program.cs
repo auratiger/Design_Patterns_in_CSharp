@@ -1,5 +1,6 @@
 ﻿﻿using System;
  using Design_Patterns.Behavioral_Patterns.CommandPattern.CompositeCommand;
+ using Design_Patterns.Behavioral_Patterns.InterpreterPattern;
  using Design_Patterns.Creational_Patterns;
  using Design_Patterns.Creational_Patterns.BuilderPattern;
  using Design_Patterns.Creational_Patterns.PrototypePattern;
@@ -23,7 +24,9 @@
             
             // FlyWeightPattern.Test();
             
-            CompositeCommand.Test();
+            // CompositeCommand.Test();
+            
+            InterpreterPattern.Test();
         }
     }
 }

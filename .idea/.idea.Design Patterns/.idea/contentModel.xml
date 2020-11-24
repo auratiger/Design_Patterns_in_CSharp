@@ -17,6 +17,9 @@
             <e p="CommandPatternExample2.cs" t="Include" />
             <e p="CompositeCommand.cs" t="Include" />
           </e>
+          <e p="InterpreterPattern" t="Include">
+            <e p="InterpreterPattern.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
