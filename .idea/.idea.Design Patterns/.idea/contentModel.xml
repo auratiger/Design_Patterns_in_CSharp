@@ -29,6 +29,9 @@
           <e p="MementoPattern" t="Include">
             <e p="MementoPattern.cs" t="Include" />
           </e>
+          <e p="NullObjectPattern" t="Include">
+            <e p="NullObjectPattern.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
