@@ -24,7 +24,7 @@ namespace Design_Patterns.Behavioral_Patterns.IteratorPattern
      *
      * So how do we solve this?
      *
-     * The main idea of the Iterator pattern is to extact the traversal behavior of a collection into
+     * The main idea of the Iterator pattern is to extract the traversal behavior of a collection into
      * a separate object called an iterator. In addition to implementing the algorithm itself,
      * an iterator object encapsulates all of the traversal details, such as the current position
      * and how many elements are left till the end. Because of this, several iterators can go
