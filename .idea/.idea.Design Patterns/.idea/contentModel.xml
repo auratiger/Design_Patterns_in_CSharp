@@ -32,6 +32,9 @@
           <e p="NullObjectPattern" t="Include">
             <e p="NullObjectPattern.cs" t="Include" />
           </e>
+          <e p="TemplateMethodPattern" t="Include">
+            <e p="TemplateMethodPattern.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
