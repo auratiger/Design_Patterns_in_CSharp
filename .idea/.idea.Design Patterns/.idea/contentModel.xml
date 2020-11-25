@@ -26,6 +26,9 @@
           <e p="MediatorPattern" t="Include">
             <e p="MediatorPattern.cs" t="Include" />
           </e>
+          <e p="MementoPattern" t="Include">
+            <e p="MementoPattern.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
