@@ -41,6 +41,9 @@
             <e p="SwitchExpressionState.cs" t="Include" />
             <e p="SwitchStateMachine.cs" t="Include" />
           </e>
+          <e p="StrategyPattern" t="Include">
+            <e p="StrategyPattern.cs" t="Include" />
+          </e>
           <e p="TemplateMethodPattern" t="Include">
             <e p="TemplateMethodPattern.cs" t="Include" />
           </e>

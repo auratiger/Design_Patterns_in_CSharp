@@ -70,6 +70,7 @@
         <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/StatePattern/StatePattern.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/StatePattern/SwitchStateMachine.cs" />
         <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/StatePattern/SwitchExpressionState.cs" />
+        <option value="$PROJECT_DIR$/Design Patterns/Behavioral Patterns/StrategyPattern/StrategyPattern.cs" />
       </list>
     </option>
   </component>
@@ -135,7 +136,7 @@
       <workItem from="1606248385714" duration="3018000" />
       <workItem from="1606303674807" duration="17718000" />
       <workItem from="1606347309470" duration="856000" />
-      <workItem from="1606383376463" duration="11017000" />
+      <workItem from="1606383376463" duration="13807000" />
     </task>
     <servers />
   </component>
@@ -248,24 +249,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="231" key="GridCell.Tab.4.right/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606248368457" />
-    <state x="1059" y="318" key="RiderGenerateDialog" timestamp="1606407323879">
+    <state x="1059" y="318" key="RiderGenerateDialog" timestamp="1606423206835">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="794" y="236" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606075702446" />
-    <state x="1059" y="318" key="RiderGenerateDialog/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606407323879" />
+    <state x="1059" y="318" key="RiderGenerateDialog/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606423206835" />
     <state x="615" y="222" key="SettingsEditor" timestamp="1606244257540">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606047407185" />
     <state x="615" y="222" key="SettingsEditor/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606244257540" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1605379306048">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="821" y="323" width="896" height="912" key="run.anything.popup" timestamp="1606423427497">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605379306048" />
-    <state x="831" y="303" width="896" height="913" key="search.everywhere.popup" timestamp="1606389641053">
+    <state x="821" y="323" width="896" height="912" key="run.anything.popup/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606423427497" />
+    <state x="831" y="303" width="896" height="913" key="search.everywhere.popup" timestamp="1606423129312">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605809594552" />
-    <state x="831" y="303" width="896" height="913" key="search.everywhere.popup/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606389641053" />
+    <state x="831" y="303" width="896" height="913" key="search.everywhere.popup/-1920.362.1920.1040/2560.362.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1606423129312" />
   </component>
 </project>
