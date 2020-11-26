@@ -36,6 +36,11 @@
             <e p="ObserverPattern.cs" t="Include" />
             <e p="ObserverPatternWithEvents.cs" t="Include" />
           </e>
+          <e p="StatePattern" t="Include">
+            <e p="StatePattern.cs" t="Include" />
+            <e p="SwitchExpressionState.cs" t="Include" />
+            <e p="SwitchStateMachine.cs" t="Include" />
+          </e>
           <e p="TemplateMethodPattern" t="Include">
             <e p="TemplateMethodPattern.cs" t="Include" />
           </e>
