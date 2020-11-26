@@ -32,6 +32,10 @@
           <e p="NullObjectPattern" t="Include">
             <e p="NullObjectPattern.cs" t="Include" />
           </e>
+          <e p="ObserverPattern" t="Include">
+            <e p="ObserverPattern.cs" t="Include" />
+            <e p="ObserverPatternWithEvents.cs" t="Include" />
+          </e>
           <e p="TemplateMethodPattern" t="Include">
             <e p="TemplateMethodPattern.cs" t="Include" />
           </e>

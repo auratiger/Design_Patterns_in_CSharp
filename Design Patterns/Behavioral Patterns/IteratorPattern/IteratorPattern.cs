@@ -30,7 +30,7 @@ namespace Design_Patterns.Behavioral_Patterns.IteratorPattern
      * and how many elements are left till the end. Because of this, several iterators can go
      * through the same collection at the same time, independently of each other.
      *
-     * All iterators much implement the same interface. This makes the client code compatible
+     * All iterators must implement the same interface. This makes the client code compatible
      * with any collection type or any traversal algorithm as long as there's a proper iterator.
      * If you need a special way to traverse a collection, you just create a new iterator class,
      * without having to change the collection or the client.
