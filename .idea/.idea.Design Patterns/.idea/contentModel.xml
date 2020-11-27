@@ -47,6 +47,9 @@
           <e p="TemplateMethodPattern" t="Include">
             <e p="TemplateMethodPattern.cs" t="Include" />
           </e>
+          <e p="VisitorPattern" t="Include">
+            <e p="VisitorPattern.cs" t="Include" />
+          </e>
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Creational Patterns" t="Include">
